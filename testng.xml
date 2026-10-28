@@ -4,6 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="Validate.Validate_AboutUs"/>
+      <class name="Validate.Validate_HomePage"/>
       <class name="Validate.Validate_ContactUs"/>
     </classes>
   </test> <!-- Test -->
